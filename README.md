@@ -22,5 +22,5 @@ This project is currently in development. Installation steps and environment set
 ## Purpose
 Bookmarks fail at organization. LOCKR succeeds.
 
-## Demo & GitHub
+## Demo
 Coming soon.
