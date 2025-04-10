@@ -1,23 +1,26 @@
 # LOCKR
 
-## 📌 Overview
-LOCKR is a minimalist CRUD application designed to organize your digital life. Save and manage useful links, notes, code snippets, and resources—tagged, searchable, and instantly accessible. It's your personal digital vault, keeping chaos out of your workflow.
+## Overview
+LOCKR is a CRUD application built to organize digital chaos. Store and access links, notes, code snippets, and key resources with ease. Simple tagging, fast searching, and an intuitive interface create clarity from clutter.
 
-## ⚙️ Tech Stack
+## Tech Stack
 - Frontend: React, Tailwind CSS
 - Backend: Node.js, Express.js
 - Database: MongoDB
-- Auth (Optional): JWT, bcrypt
-- Deployment: Frontend (Vercel), Backend (Render, Railway)
+- Optional Authentication: JWT, bcrypt
+- Deployment: Frontend via Vercel, Backend via Render or Railway
 
-## 🚀 Features
-- CRUD functionality (Create, Read, Update, Delete)
-- Tagging and powerful filtering/search
-- Markdown support for notes (optional)
-- Secure, fast, minimal UI
+## Installation
+This project is currently in development. Installation steps and environment setup instructions will be added upon completion of the MVP.
 
-## 🧠 Why This Exists
-Bookmarks are where links go to die. LOCKR makes sure you never lose track again.
+## Features
+- Create, Read, Update, Delete operations
+- Tagging and advanced search functionality
+- Optional Markdown notes support
+- Clean, responsive design
 
-## 🔗 Demo & GitHub
+## Purpose
+Bookmarks fail at organization. LOCKR succeeds.
+
+## Demo & GitHub
 Coming soon.
